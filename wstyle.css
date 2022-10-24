@@ -1,0 +1,38 @@
+.text-center {
+    text-align: center;
+
+}
+
+
+select{
+    width: 500px;
+    border:
+    3px      
+    solid     
+    rgb(198, 153, 5); 
+    background: rgb(198, 153, 5);  ; 
+}
+
+.temperature{
+    text-align: center;
+    font-size: 50px;
+}
+
+
+.clouds{
+    text-align: center;
+    font-size: 30px;
+}
+
+.air{
+    text-align: center;
+}
+
+.container{
+    margin-top: 100px;
+    background: rgb(195, 227, 98); ;
+    border:
+        6px      
+        solid     
+        rgb(198, 153, 5);  
+}
